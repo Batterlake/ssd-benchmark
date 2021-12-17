@@ -102,3 +102,9 @@ execution
         m=video <selected-port> RTP/AVP 96
         a=rtpmap:96 H264/90000
         """
+
+
+OPENVINO
+Convert model
+
+python openvino-convert-ir2eng.py

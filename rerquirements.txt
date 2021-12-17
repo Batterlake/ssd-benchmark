@@ -1,3 +1,10 @@
+# pc
 numpy
 pandas
 opencv-contrib-python
+
+# openvino
+openvino
+networkx
+defusedxml
+requests
